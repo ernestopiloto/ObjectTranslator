@@ -1,0 +1,12 @@
+.metadata
+.metadata/*
+.settings/*
+**/bin-release/*
+**/bin-debug/*
+**/html-template/*
+**/bin/*
+doc/*
+obj/*
+com.adobe.flexbuilder.project.prefs
+Thumbs.db
+.DS_Store
